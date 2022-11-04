@@ -1,2 +1,2 @@
-# DOCKER-TOMCAT-JAVA-DEMO
-This code is for Docker Java App on Tomcat for Demo
+# SampleWebApp
+A Sample Web Application with Snoop Servlet for Tomcat, Weblogic, Jboss, Websphere
